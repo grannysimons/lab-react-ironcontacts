@@ -1,0 +1,25 @@
+.Contactmanager
+{
+  padding: 20px;
+}
+.Contactmanager h1
+{
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+.Contactmanager .contact-header
+{
+  font-weight: bold;
+  font-size: 24px;
+}
+.Contactmanager .contact-wrapper
+{
+  margin: 0 auto;
+  padding: 4% 30%;
+  text-align: center;
+}
+.Contactmanager .Buttons
+{
+  text-align: center;
+}
